@@ -1,0 +1,15 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Telegram bot that finds available vaccination slots all over India",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kaustubh Prabhu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "telegraf": "^4.4.2"
+  }
+}
